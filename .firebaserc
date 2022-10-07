@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "authenticationtest-27f87"
+  },
+  "targets": {
+    "authenticationtest-27f87": {
+      "hosting": {
+        "FirebaseAuthentication1": [
+          "authenticationtest-27f87"
+        ]
+      }
+    }
+  }
+}
