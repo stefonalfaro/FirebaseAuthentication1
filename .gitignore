@@ -50,3 +50,4 @@ Thumbs.db
 /environments
 environment.ts
 environment.prod.ts
+/src/environments
